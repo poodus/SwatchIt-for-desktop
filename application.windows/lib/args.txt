@@ -1,0 +1,3 @@
+ -Xms64m -Xmx1500m
+SwatchIt_v1_1
+SwatchIt_v1_1.jar,core.jar,itext.jar,pdf.jar
